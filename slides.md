@@ -1,19 +1,22 @@
-# Demo
+# ER Diagramme - normalisierung der Daten 
+
+von Leonita Rama und Laura Ziebermayr
 
 --
 
-## Typography
+## Was heißt "normalisierung der Daten" überhaupt?
 
 ---
 
-## Quotes
+## Strukturierung un Umorganisation bestehender Datenverbidnungen
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
+> Informationen werden aufgeteilt
+> Verbindungen werden neu erstellt
+> Anomalien werden beseitigt
 
 ---
 
-## Styles
+## Warum 
 
 You can freely mix **bold**, *italics*, `code` and normal styles
 
